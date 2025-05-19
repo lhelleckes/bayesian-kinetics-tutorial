@@ -16,9 +16,9 @@ You will explore how to:
 | Notebook | Title | Description |
 |---------|-------|-------------|
 | `0_data_generation.ipynb` | **[Hidden] Data generation** | ⚠️ *Not for initial use.* This notebook simulates the kinetic dataset. Use it only if you want to inspect or regenerate the synthetic data. |
-| `1_bayesian_kinetics_intro.ipynb` | **Basic Bayesian model without latent effects** | 🧪 Your starting point. Fit a simple model to the observed kinetic data using PyMC. |
-| `2.1_bayesian_kinetics_gp_exercise.ipynb` | **Hybrid Modeling with Latent GPs (Solution)** | 🔬 Advanced model using a GP prior to capture latent dependencies (temperature/pH effects). |
-| `2.2_SOLUTION_bayesian_kinetics_gp_exercise.ipynb.` | **Hybrid Modeling with Latent GPs (Exercise)** | 💡  The full solution in case you need help. |
+| `1_bayesian_kinetics_intro.ipynb` | **Basic Bayesian model with mechanistic equation** | 🧪 Your starting point. Fit a simple model to the observed kinetic data using PyMC. |
+| `2.1_bayesian_kinetics_gp_exercise.ipynb` | **Hybrid modelling with latent GP (Exercise)** | 🔬 Advanced model using a GP prior to capture latent dependencies (temperature/pH effects). |
+| `2.2_SOLUTION_bayesian_kinetics_gp_exercise.ipynb.` | **Hybrid modelling with latent GP (Solution)** | 💡  The full solution in case you need help. |
 
 ---
 
@@ -34,7 +34,7 @@ Then explore hybrid modeling with GPs:
 
 ## 📦 Requirements
 
-We recommend using Google Colab.  
+The easiest way to use the notebooks is via Google Colab.  
 If running locally, install the dependencies via:
 
 ```bash
