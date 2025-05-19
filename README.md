@@ -28,7 +28,7 @@ Start with notebook 1:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhelleckes/bayesian-kinetics-tutorial/blob/main/1_bayesian_kinetics_intro.ipynb)
 
 Then explore hybrid modeling with GPs:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhelleckes/bayesian-kinetics-tutorial/blob/add_notebooks/2.1_bayesian_kinetics_gp_exercise.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhelleckes/bayesian-kinetics-tutorial/blob/main/2.1_bayesian_kinetics_gp_exercise.ipynb)
 
 ---
 
